@@ -2,7 +2,6 @@
 *.csv
 *.xlsx
 *.json
-/Data/
 
 # Python & Notebook junk
 __pycache__/
